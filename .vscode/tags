@@ -4,4 +4,18 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Fraction	../fractions.py	/^class Fraction(object):$/;"	kind:class	line:1
+__add__	../fractions.py	/^    def __add__(self, b):$/;"	kind:member	line:29
+__div__	../fractions.py	/^    def __div__(self, b):$/;"	kind:member	line:35
+__eq__	../fractions.py	/^    def __eq__(self, b):$/;"	kind:member	line:15
+__ge__	../fractions.py	/^    def __ge__(self, b):$/;"	kind:member	line:38
+__gt__	../fractions.py	/^    def __gt__(self, b):$/;"	kind:member	line:26
+__init__	../fractions.py	/^    def __init__(self, numerator=None, denominator=None, decimal=None):$/;"	kind:member	line:2
+__le__	../fractions.py	/^    def __le__(self, b):$/;"	kind:member	line:23
+__mul__	../fractions.py	/^    def __mul__(self, b):$/;"	kind:member	line:32
+__repr__	../fractions.py	/^    def __repr__(self):$/;"	kind:member	line:12
+fraction	../fractions.py	/^fraction = Fraction(decimal=0.5)$/;"	kind:variable	line:52
 fractions.py	../fractions.py	1;"	kind:file	line:1
+get_numerator_denominator	../fractions.py	/^    def get_numerator_denominator(self, decimal):$/;"	kind:member	line:47
+to_float	../fractions.py	/^    def to_float(self):$/;"	kind:member	line:44
+to_int	../fractions.py	/^    def to_int(self):$/;"	kind:member	line:41
